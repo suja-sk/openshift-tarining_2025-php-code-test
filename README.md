@@ -1,0 +1,1 @@
+# openshift-tarining_2025-php-code-test
